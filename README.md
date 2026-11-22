@@ -9,7 +9,14 @@ Solve 34 problem queries on a hospital database (patients, admissions and doctor
 Practice medical history database provided by DataMites: 9,637 records across linked patients, admissions, doctors and province tables.
 
 ## Sample Queries and Results
-![Key SQL queries](query_screenshot.png)
+
+**Patients with their province names (JOIN)**
+
+![Province join](Medical_Analysis_Screenshot(1).png)
+
+**Epilepsy patients treated by a doctor named Lisa (3-table JOIN)**
+
+![Three table join](Medical_Analysis_Screenshot(2).png)
 
 ## Project Steps
 1. Connected to the database and wrote queries using SELECT, WHERE filtering, string functions and date functions.
